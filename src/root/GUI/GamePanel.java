@@ -50,6 +50,7 @@ public class GamePanel extends JPanel implements Runnable, MouseInputListener, C
     setLayout(null);
     setPreferredSize(visualMode.GameDim);
     resetToLevel(1);
+    SoundHandler.RunMusic(MUSIC);
   }
 
   void initMessage() {
