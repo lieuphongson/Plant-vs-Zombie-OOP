@@ -14,6 +14,7 @@ public interface ResourcesPath {
   String SHOVEL = RESOURCE_DIR + "/item/Shovel.png";
   String SHOVEL_BUTTON = RESOURCE_DIR + "/item/ShovelButton.jpg";
   String START_GAME = RESOURCE_DIR + "/item/menu.png";
+  String MUSIC = RESOURCE_DIR + "/Music/Music.wav";
 
   //font
   String PvZUI_FONT = RESOURCE_DIR + "/Font/PvZUI.ttf";
